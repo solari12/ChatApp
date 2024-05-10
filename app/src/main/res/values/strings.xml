@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HeartSync</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Profile Screen</string>
+    <string name="profile_chat">Profile Chat</string>
+    <string name="profile_screen">Profile screen</string>
+    <string name="chat_screen">Chat Screen\n</string>
+    <string name="search_user">Tìm kiếm</string>
+</resources>
